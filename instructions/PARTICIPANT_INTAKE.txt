@@ -1,0 +1,22 @@
+PARTICIPANT INPUT FORM - COMPLETE BEFORE ASKING AI TO DRAFT
+Company name: [ ]
+CIN: [ ]
+Company classification: [ ]
+Listed? [ ]  Stock exchange(s): [ ]  Listed security type: [ ]
+Meeting date: [ ]  Time: [ ]  Venue / mode: [ ]
+Board composition: [ ]  Chairperson: [ ]  Quorum: [ ]
+Previous meeting date: [ ]
+Proposed agenda items (numbered): [ ]
+Background papers / commercial terms: [ ]
+Interested directors / related parties: [ ]
+Notice dispatch date / mode: [ ]
+Actual attendance: [ ]
+Actual deliberations and decisions: [ ]
+Voting / dissent / abstentions: [ ]
+Responsible persons and deadlines: [ ]
+Does winding up mean closing the Board meeting or liquidation of company? [ ]
+If liquidation: solvent? [ ] debts? [ ] defaults? [ ] creditors? [ ] assets? [ ] route? [ ]
+Documents available: [ ]
+Specific output requested: [ ]
+
+Do not invent blank details. Verify all filing deadlines and legal requirements against current official sources.
